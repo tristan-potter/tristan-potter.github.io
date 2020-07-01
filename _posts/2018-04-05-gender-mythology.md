@@ -3,7 +3,9 @@ layout: post
 title:  "Gender Mythology"
 date:   2018-04-05 20:31:57 -0400
 tags: philosophy gender-theory
-excerpt: "The current gendered roles in Western society that we assign to men and women have a deep history, and the ways that the ideas of Western philosophers from thousands of years ago still effect society is astonishing."
+excerpt: "The current gendered roles in Western society that we assign to men
+  and women have a deep history, and the ways that the ideas of Western
+  philosophers from thousands of years ago still effect society is astonishing."
 hero-image: https://images.unsplash.com/photo-1487089427585-85563b1049f3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=4b1d6a8280e27dbec5de49a95809dae0
 status: draft
 author: tristan
