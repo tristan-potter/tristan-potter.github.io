@@ -1,18 +1,28 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am an agile developer and strategic governance enthusiast with a Bachelor of Computer Science from the University of Waterloo.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Through my time at the University of Waterloo, I have become an experienced director of multiple non-profit and charitable organizations, as well as skilled with a variety of operating systems and programming languages.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Subjects I’m interested in include:
 
+- computer science,
+- corporate governance,
+- sociology, 
+- philosophy.
 
-[jekyll-organization]: https://github.com/jekyll
+In my free time, I also like to:
+
+- ski,
+- bike,
+- play piano,
+- read,
+- practise my calligraphy, and
+- watch TV shows and movies.
+
+Feedback is a gift, so feel free to send any comments my way!
+
