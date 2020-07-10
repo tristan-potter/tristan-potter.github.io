@@ -7,9 +7,12 @@ $font-prefix: '/assets/fonts';
 // font-family: 'IBM Plex Sans Condensed', 'Helvetica Neue', Arial, sans-serif;
 // font-family: 'IBM Plex Serif', 'Georgia', Times, serif;
 
-body {
-  font-family: 'IBM Plex Sans', 'serif';//'Helvetica Neue', Arial, sans-serif;
+body, h1, h2, h3, h4, h5, h6, p {
+  font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
   font-weight: 300;
+}
+
+body {
   font-size: 1.0em;
   padding: 10px 50px;
   background-color: #fdfdfe;
