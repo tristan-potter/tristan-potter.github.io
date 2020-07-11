@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Gender Mythology"
 date:   2018-04-05 20:31:57 -0400
 tags: philosophy gender-theory

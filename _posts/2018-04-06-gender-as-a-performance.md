@@ -1,7 +1,7 @@
 ---
-layout: post
 title:  "Gender: Flip the script"
 date:   2018-04-06 17:56:40 -0400
+tags: philosophy gender-theory
 categories: 
 excerpt: "Although historical interpretations of gender have continued to broadly influence our culture, modern and contemporary philosophers have expanded the discipline, providing more nuanced understandings of human biology, psychology, and sociology."
 hero-image: https://images.unsplash.com/photo-1494989729081-eb6f69bb1132?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=2b38ba0a44a8a9af240dda33bb84181d
