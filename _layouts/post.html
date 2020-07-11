@@ -8,6 +8,10 @@ layout: default
 
 <div class="timestamp">
   {{ page.date | date_to_string: "ordinal", "US" }}
+  <br />
+  {% if page.original-publication %}
+    Originally published {{ page.original-publication | date_to_string: "ordinal", "US" }}
+  {% endif %}
 </div>
 
 {{ content }}
