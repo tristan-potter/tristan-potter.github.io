@@ -282,10 +282,8 @@ using modern and contemporary research to back their theories of gender and sex.
 
 [^bible]: The New English Bible. Oxford University Press, 2009.
 
-[//]: #TODO I should probably find a citation for a translated version of this
-that doesn't have this title
+[//]: #TODO I should probably find a citation for a translated version of this that doesn't have this title
 
-[^on-the-trinity]: Clack, Beverley. “Augustine 354–430 Ce.” Misogyny in the Western
-Philosophical Tradition, Springer, 1999, pp. 59–74.
+[^on-the-trinity]: Clack, Beverley. “Augustine 354–430 Ce.” Misogyny in the Western Philosophical Tradition, Springer, 1999, pp. 59–74.
 
 [^the-second-sex]: De Beauvoir, Simone. The Second Sex. Random House, 2014.
