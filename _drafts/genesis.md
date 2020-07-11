@@ -13,10 +13,11 @@ millennia.
 
 ## Two stories
 
-There are many differences between _Genesis I_ and _Genesis II_, and there is disagreement
-on whether they are two different creation stories or one. The dicrepencies
-between the two stories is interesting, especially since the language used in
-_Genesis II_ is often used to justify a hierarchy of the sexes.
+There are many differences between _Genesis I_ and _Genesis II_, and there is
+disagreement on whether they are two different creation stories or one. The
+dicrepencies between the two stories is interesting, especially since the
+language used in _Genesis II_ is often used to justify a hierarchy of the
+sexes.
 
 In the first narrative, we have a descriptive account of creation that begins
 with light and space, moves to the animals, and ends with humankind.
