@@ -6,6 +6,7 @@ tags: philosophy gender-theory
 excerpt: "In *Generation of Animals*, Aristotle establishes a new theory of sex
   to explain the differences between men and women."
 author: tristan
+episode: 1
 
 ---
 
@@ -21,6 +22,8 @@ additionally to describe the differences.
 > the difference is plain to our senses"[^generation-of-animals]
 >
 > *Aristotle, Generation of Animals, IV, pp371*
+
+## Form, function, and bodily fluids
 
 He began with the prevailing Western theory: that all differences between
 entities were caused by changes in energy (or temperature). Heat caused
@@ -40,11 +43,12 @@ He then investigated the variations between the the fluids men and women
 produced as a starting point for his theories on the differentiation of sex.
 
 The prevailing theory of the time stated that menstrual blood/fluid was the
-female equivalent to semen. Since all differences are related to hot and cold,
-they decided that menstrual fluid must be cold, since semen was hot (clearly
-none of them tested this theory). This makes the fluids the same in form
+female equivalent to semen, partly based on the temperature difference
+between menstrual fluid and semen. This makes the fluids the same in form
 (definition), but different in reality (matter). Aristotle built off this work
 to try and determine why there was a difference in matter.
+
+## Accidental women
 
 > "Let us assume then \[...\] that "the male" is a principle and is causal in
 > its nature; \[...\]\[and\] that a male is male in virtue of a particular
@@ -76,18 +80,24 @@ original ideas about sex. This model is generally considered to be the "one-sex
 model" since it states that there is one type of human, and variations in sex
 are accidental.
 
-There is a clear loophole in this theory: men can recreate a perfect
-form through enforcing their will on nature, but women cannot enforce their will
-in any way to pass on their genetics (because they do not have the ability to
-produce semen). The difference between the ability to procreate and the
-inability to procreate is a major difference in function, which would imply a
-difference in form. (Also, menstrual fluid is not cold, nor is it similar to
-semen.)
+## Contradictions
 
-Despite the flaws in this theory, students are still taught about the aggressive
-nature of sperm and the passivity of the egg (despite research to the contrary),
-women are still thought to have little control over reproduction, and the one
-sex model still influences modern ideas of medication and treatment.
+Unfortunately (or fortunately) there is a contradiction in this theory:
+
+- Men can recreate a perfect form through enforcing their will on nature, but
+- Women cannot pass on their genes by enforcing their will on nature (because
+    they do not have the ability to produce semen).
+
+The difference between the ability to procreate and the inability to procreate
+is a major difference in function, which would imply a difference in form.
+
+(Also, menstrual fluid is not similar to semen.)
+
+Despite the flaws in this theory, students are still taught about the
+aggressive nature of sperm and the passivity of the egg (despite research to
+the contrary), women are still thought to have little control over
+reproduction, and the one sex model still influences modern ideas of medication
+and treatment.
 
 ---
 

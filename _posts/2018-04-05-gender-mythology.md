@@ -8,6 +8,7 @@ excerpt: "The current gendered roles in Western society that we assign to men
 hero-image: https://images.unsplash.com/photo-1487089427585-85563b1049f3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=4b1d6a8280e27dbec5de49a95809dae0
 status: draft
 author: tristan
+episode: 99
 
 ---
 

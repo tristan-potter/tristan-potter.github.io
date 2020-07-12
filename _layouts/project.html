@@ -8,7 +8,9 @@ layout: default
 {{ content }}
 
 <ul class="post-list">
-  {% for post in site.tags[page.tag] %}
+  {% assign posts = site.tags[page.tag] | sort: "episode" %}
+
+  {% for post in posts %}
   <li>
     <a href="{{ post.url }}">
       <div class="project-item">
