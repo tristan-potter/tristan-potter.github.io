@@ -9,11 +9,6 @@ author: tristan
 
 ---
 
-> "It is however not agreed whether one is male and another female even before the
-> difference is plain to our senses"[^generation-of-animals]
->
-> *Aristotle, Generation of Animals, IV, pp371*
-
 Classifying men and women is a categorization problem, and to do any
 categorization, we need to know what defines their similarities and
 differences. 
@@ -21,6 +16,11 @@ differences.
 This is the work that Aristotle was doing in _Generation of Animals_;
 attempting to establish that men and women were of the same species, and
 additionally to describe the differences. 
+
+> "It is however not agreed whether one is male and another female even before
+> the difference is plain to our senses"[^generation-of-animals]
+>
+> *Aristotle, Generation of Animals, IV, pp371*
 
 He began with the prevailing Western theory: that all differences between
 entities were caused by changes in energy (or temperature). Heat caused
@@ -45,6 +45,13 @@ they decided that menstrual fluid must be cold, since semen was hot (clearly
 none of them tested this theory). This makes the fluids the same in form
 (definition), but different in reality (matter). Aristotle built off this work
 to try and determine why there was a difference in matter.
+
+> "Let us assume then \[...\] that "the male" is a principle and is causal in
+> its nature; \[...\]\[and\] that a male is male in virtue of a particular
+> ability, and a female \[is\] female in virtue of a particular
+> inability"[^generation-of-animals]
+> 
+> *Aristotle, Generation of Animals, IV, pp391-392*
 
 Building on the theory that the fluids were the same in form, Aristotle argued
 that men and women did not differ in their functions, but only by accident of

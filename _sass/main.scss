@@ -42,6 +42,22 @@ blockquote {
   border-left: solid 3px #BDBDBD;
 }
 
+.post-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.project-item {
+  border: solid 1px #BDBDBD;
+  margin: 10px 0;
+  padding: 0 10px;
+}
+
+.excerpt {
+  margin-left: 0;
+}
+
 .site-title {
   position: relative;
   height: 40px;

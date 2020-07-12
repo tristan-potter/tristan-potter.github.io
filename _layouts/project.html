@@ -3,7 +3,23 @@ layout: default
 ---
 
 <h2>{{ page.title }}</h2>
-
 <hr>
 
 {{ content }}
+
+<ul class="post-list">
+  {% for post in site.tags[page.tag] %}
+  <li>
+    <a href="{{ post.url }}">
+      <div class="project-item">
+        <h2>
+          {{ post.title }}
+        </h2>
+        <div class="excerpt">
+          {{ post.excerpt | markdownify }}
+        </div>
+      </div>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
