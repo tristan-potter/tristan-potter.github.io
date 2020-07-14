@@ -1,11 +1,10 @@
 ---
-title: "Cooking for friends: Duck breast, heirloom carrots, pomme purée"
+title: "2020-01: All the sous vide"
 date: 2020-07-12
 tags: cooking personal-life
 author: tristan
----
 
-# Duck breast with heirloom carrots and pomme purée 
+---
 
 I had dreams of being a chef when I was young; now I create
 software instead of gastronomic masterpieces. Despite this, I sometimes take
