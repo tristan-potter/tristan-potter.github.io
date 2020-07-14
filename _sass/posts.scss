@@ -1,0 +1,54 @@
+
+// Cooking
+
+.menu {
+  max-width: 300px;
+  border: solid 1px #BDBDBD;
+  padding: 10px;
+  border-spacing: 10px;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.menu thead {
+  font-size: 1.2em;
+  margin-bottom: 30px;
+}
+
+.menu th {
+  border-bottom: solid 1px black;
+}
+
+.menu {
+  border: solid 1px black;
+  padding: 10px;
+}
+
+img.block {
+  display: block;
+  margin: 0 auto;
+}
+
+img.inline {
+  display: block;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  float: left;
+}
+
+img.w30 {
+  width: 30%;
+}
+
+img.w80 {
+  width: 80%;
+}
+
+img.left {
+  float: left;
+}
+
+img.right {
+  float: right
+}
