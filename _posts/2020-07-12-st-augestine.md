@@ -1,5 +1,5 @@
 ---
-title: "St. Augesting and head coverings"
+title: "St. Augestine and head coverings"
 original-publication: 2018-04-05
 date: 2020-07-12
 tags: philosophy gender-theory gender-history
