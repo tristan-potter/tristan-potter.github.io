@@ -2,6 +2,8 @@
 title: "2020-01: All the sous vide"
 date: 2020-07-14
 tags: cooking personal-life
+excerpt: I sometimes take the opportunity to cook more ambitiously. In January,
+    I challenged myself to a small dinner party with some high-school friends.
 author: tristan
 
 ---
