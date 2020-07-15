@@ -2,7 +2,7 @@
 title: Aristotle's One Sex Theory
 original-publication: 2018-04-05
 date: 2020-07-11
-tags: philosophy gender-theory
+tags: philosophy gender-theory gender-history
 excerpt: "In *Generation of Animals*, Aristotle establishes a new theory of sex
   to explain the differences between men and women."
 author: tristan

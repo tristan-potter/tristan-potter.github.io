@@ -2,7 +2,7 @@
 title: "St. Augesting and head coverings"
 original-publication: 2018-04-05
 date: 2020-07-12
-tags: philosophy gender-theory
+tags: philosophy gender-theory gender-history
 excerpt: "St. Augestine resolves a contradiction in the ways that women
   and men are treated differently by the church with a new theory of
   mind."
