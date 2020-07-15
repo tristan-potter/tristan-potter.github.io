@@ -119,7 +119,7 @@ vide time... but we served it right away -- people were getting hungry!
 
 ## The Meal
 
-![JPEG image-53E2D1A43E65-1](/assets/images/food.png){:.inline .left .w30}
+![JPEG image-53E2D1A43E65-1](/assets/images/food.png){:.inline-left .w30}
 
 The salad was served with a Beaujolais (red wine, Gamay grapes, pairs well with
 duck breast); however, some people were still drinking moscato, some beer. This
