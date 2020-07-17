@@ -1,7 +1,7 @@
 ---
 title: Kessler and McKenna – the subjective categorization of gender
 original-publication: 2018-04-06
-date: 2020-07-14
+date: 2020-07-15
 tags: philosophy gender-theory gender-contemporary
 author: tristan
 episode: 2
