@@ -8,15 +8,17 @@ episode: 3
 
 ---
 
-[Judith Butler][judith-butler][^judith-creds], builds off of
+[Judith Butler][judith-butler][^judith-creds] builds off of
 previous research to build a theory of gender as a flexible and changing
 expression of the self, as opposed to a stable identity. 
 
-In this model, our societal experiences of gender as a fixed attribute is
-built by our repeated actions, which creates the illusion that gender is a
-stable identity when it might be better viewed as an expression of self that
-changes in time. In other words, gender is a subjective construction that we
-create through time, not a fixed objective reality of our experiences.
+## An ongoing performance 
+
+In her model, our experiences of gender as a fixed attribute is built by
+repeated actions, which creates the illusion that gender is a stable identity
+when it might be better viewed as an expression of self that changes.
+In other words, gender is a subjective construction that we repeatedly create
+in time, not a fixed objective reality of our experiences.
 
 > gender is an identity tenuously constituted in time, instituted in an
 > exterior space through a stylized repetition of acts. [^gender-trouble]
@@ -39,16 +41,33 @@ ensures its consistency and apparent naturalism.
 > 
 > *(Butler, Gender trouble: Subjects of sex/gender/desire, pp213)*
 
-The belief in the constructed story of gender that we perform, and the ways
-that it is naturalized and enforced have created the perception of a concrete
-and objective gender reality, and as a society we enforce these ideas regularly.
+**Recap**: The perception of a concrete and objective gender reality is created
+by the constructed story of gender that we perform, combined with the ways that
+it is naturalized and enforced.
+
+## Appearance of naturalism
+
+As a society, we enforce these ideas regularly, often ridiculing or violently
+subduing people who don't conform to the expectations of Western society.
 
 > Discrete genders are part of what "humanizes" individuals within contemporary
 > culture; indeed, we regularly punish those who fail to do their gender 
 > right. [^gender-trouble]
 >
 > (Butler, Gender trouble: Subjects of sex/gender/desire, pp213)
- 
+
+The enforcement of gender, combined with the unconscious (or sometimes more
+intentional) self-policing of our gender expressions, lead to the regular,
+rigid, and predictable expressions of gender that make it seem biological.
+
+## What about "Born this way"?
+
+Whether or not gender is a biological phenomenon or a societal/personal one
+should not determine how we treat each other. Peoples personal realities and
+subjective experiences are real, and we should listen and do our best to
+understand each other regardless of our ability to explain the experiences with
+medicine.
+
 ---
 
 {::comment} LINKS {:/comment}
@@ -72,9 +91,9 @@ and objective gender reality, and as a society we enforce these ideas regularly.
 
 {::comment} REFERENCES {:/comment}
 
-[^judith-creds]: a [Fellow of the British Academy][british-academy] and a
-    professor in the Department of Comparative Literature and the Program of
-    Critical Theory at the University of California, Berkeley.
+[^judith-creds]: Butler is a [Fellow of the British Academy][british-academy]
+    and a professor in the Department of Comparative Literature and the Program
+    of Critical Theory at the University of California, Berkeley.
 
 [^the-second-sex]: De Beauvoir, Simone. The Second Sex. Random House, 2014.
 
