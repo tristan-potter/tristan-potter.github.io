@@ -8,6 +8,12 @@ episode: 3
 
 ---
 
+
+Overall the wording is very academic, and potentially not accessible to someone
+who doesn't study gender. Define naturalism. Arguments jump around a lot.
+self surveillance.
+
+
 [Judith Butler][judith-butler][^judith-creds] builds off of
 previous research to build a theory of gender as a flexible and changing
 expression of the self, as opposed to a stable identity. 

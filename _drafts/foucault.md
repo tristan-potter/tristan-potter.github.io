@@ -9,11 +9,13 @@ episode: 4
 ---
 
 When discussing the power of characterization and categorization it is important
-to discuss the works of Michael Foucault, a French philosopher that is primarily
+to visit the works of Michael Foucault, a French philosopher that is primarily
 known for his ideas around the ways humans categorize things, and how that power
 manifests itself in the ways people interact with each other. His work on
 categorization and power structures is used in many fields including psychology
 and sociology.
+
+## A header
 
 Our exploration of gender begins to concern Foucault’s when we begin to question
 the ways that gender is a categorization of behaviour that influences how we
