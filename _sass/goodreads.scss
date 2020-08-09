@@ -1,0 +1,39 @@
+.gr_custom_container_1596997150 {
+  img {
+    display: none;
+  }
+}
+
+.gr_custom_header_1596997150 {
+  @extend h2;
+
+  a {
+    color: black;
+  }
+}
+
+.gr_custom_each_container_1596997150 {
+  /* customize each individual book container */
+  list-style: disc outside none;
+  display: list-item;
+  margin-left: 40px;
+
+  .gr_custom_title_1596997150 {
+    /* customize book titles */
+    display: inline;
+    a {
+      color: black;
+      text-decoration: underline;
+    }
+  }
+
+  .gr_custom_author_1596997150 {
+    /* customize author names */
+    display: inline;
+    a {
+      color: black;
+      text-decoration: underline;
+    }
+  }
+}
+

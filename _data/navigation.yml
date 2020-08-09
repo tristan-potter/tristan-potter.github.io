@@ -3,7 +3,10 @@
   link: /
 - name: Blog
   icon: "&#x1F4D8"
-  link: /blog.html
+  link: /blog
+- name: About
+  icon: "&#x1F466"
+  link: /about
 # - name: Portfolio
 #   icon: "&#x1F5C2"
 #   link: /portfolio.html
