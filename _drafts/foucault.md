@@ -1,7 +1,7 @@
 ---
 title: Michael Foucault – who decides the categories?
 original-publication: 2018-04-06
-date: 2020-07-14
+date: 2020-08-10
 tags: philosophy gender-theory gender-contemporary
 author: tristan
 episode: 4
