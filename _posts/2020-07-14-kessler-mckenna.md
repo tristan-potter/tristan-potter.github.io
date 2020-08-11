@@ -1,5 +1,8 @@
 ---
-title: Kessler and McKenna – the subjective categorization of gender
+title: "Kessler and McKenna: the subjective categorization of gender"
+description: "An argument that we retroactively justify our assessment of
+people's gender instead of making the attribution based on a defined
+criterion."
 original-publication: 2018-04-06
 date: 2020-07-15
 tags: philosophy gender-theory gender-contemporary

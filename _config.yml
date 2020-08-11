@@ -28,6 +28,7 @@ github_username:  drteepot
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 collections:
   projects:
