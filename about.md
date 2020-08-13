@@ -7,17 +7,17 @@ permalink: /lists
 
 ## My interests
 
-- computer science
-- corporate governance
-- sociology
-- philosophy
+- Computer science
+- Corporate governance
+- Sociology
+- Philosophy
 
 ## My hobbies
 
-- skiing
-- biking
-- playing piano
-- reading
+- Skiing
+- Biking
+- Playing piano
+- Reading
 
 <div id="gr_custom_widget_1596997150">
   <div class="gr_custom_container_1596997150">
