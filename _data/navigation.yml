@@ -4,9 +4,9 @@
 - name: Blog
   icon: "&#x1F4D8"
   link: /blog
-- name: About
+- name: Lists
   icon: "&#x1F466"
-  link: /about
+  link: /lists
 # - name: Portfolio
 #   icon: "&#x1F5C2"
 #   link: /portfolio.html
