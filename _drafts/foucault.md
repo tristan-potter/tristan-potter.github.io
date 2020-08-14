@@ -15,7 +15,7 @@ episode: 4
 titled ["Gender: Flip the script"][flip-the-script-post]*
 
 When discussing the power of [characterization][defn-characterization] and
-[categorization][defn-categorization], Michael Foucault is the contemporary
+[categorization][defn-categorization], Michael Foucault is a contemporary
 thought-leader.
 
 Michael Foucault is a French philosopher primarily known for his ideas
