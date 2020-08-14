@@ -8,10 +8,13 @@ episode: 3
 
 ---
 
-
 [Judith Butler][judith-butler][^judith-creds] builds off of
 previous research to build a theory of gender as a flexible and changing
 expression of the self, as opposed to a stable identity. 
+
+[^judith-creds]: Butler is a [Fellow of the British Academy][british-academy]
+    and a professor in the Department of Comparative Literature and the Program
+    of Critical Theory at the University of California, Berkeley.
 
 ## An ongoing performance 
 
@@ -21,50 +24,51 @@ she argues that is more useful to view gender as an expression of self that
 changes.
 
 > gender is an identity tenuously constituted in time, instituted in an
-> exterior space through a stylized repetition of acts. [^gender-trouble]
+> exterior space through a stylized repetition of acts.
 >
 > *(Butler, Gender trouble: Subjects of sex/gender/desire, pp214)*
 
 The construction of gender (the act of performing a gender role) is used
-to communicate with the people around us, in order to to signify our position
-in a gender hierarchy and the roles that we take on. Our bodies (a politically
-and socially regulated medium) are the essential prop we use to convey our
-gender.
+to communicate with the people around us. We use gender expression in order to
+signify our position in a gender hierarchy and the roles that we take on. Our
+bodies (a politically and socially regulated medium) are the essential prop we
+use to convey our gender.
 
-**Recap**: The perception of a concrete and objective gender reality is created
-by the constructed story of gender that we perform, combined with the ways that
-it is naturalized[^define-naturalism] and enforced by those around us.
-
-## Appearance of naturalism and enforcement
+## "Natural" gender
 
 As a society, we enforce these ideas regularly, often ridiculing or violently
-subduing people who don't conform to the expectations of Western society. One
-doesn't need to look far to see this; men who act too feminine are often
-ridiculed and attacked, as are women who act too "manly".
+subduing people who don't conform to the binary (man or woman) expectations
+of Western society. One doesn't need to look far to see this; men who act too
+feminine are often ridiculed and attacked, as are women who act too "manly".
 
 > Discrete genders are part of what "humanizes" individuals within contemporary
 > culture; indeed, we regularly punish those who fail to do their gender 
-> right. [^gender-trouble]
+> right.
 >
 > (Butler, Gender trouble: Subjects of sex/gender/desire, pp213)
 
 Since it is essential to our safety and position in society, the performance
 of gender must be consistent and repeated. Our
 self-surveillance[^self-surveillance] and enforcement ensures both its
-consistency and apparent naturalism[^define-naturalism].
+consistency and apparent naturalism[^define-naturalism] (biological-ness).
 
 > Gender is […] a construction that regularly conceals its genesis; the tacit
 > collective agreement to perform, produce, and sustain discrete and polar
 > genders as cultural fictions is obscured by the credibility of those
 > productions — and the punishments that attend not agreeing to believe in them;
 > the construction "compels" our belief in its necessity and
-> naturalness.[^gender-trouble]
+> naturalness.
 > 
 > *(Butler, Gender trouble: Subjects of sex/gender/desire, pp213)*
 
-The enforcement of gender, combined with the unconscious (or sometimes more
-intentional) self-policing of our gender expressions, lead to the regular,
-rigid, and predictable expressions of gender that make it seem biological.
+The enforcement of gender, combined with the unconscious (or intentional)
+self-policing of our gender expressions lead to the regular, rigid, and
+predictable expressions of gender that make it seem biological.
+
+**Recap**: The perception of a concrete and objective gender reality is created
+by the constructed story of gender that we perform, combined with the ways that
+it is naturalized[^define-naturalism] and enforced by those around us.
+
 
 [^self-surveillance]: Self surveillance is the act of monitoring and adjusting
     our own behaviour due to the possibility that another person might be
@@ -88,6 +92,10 @@ should not determine how we treat each other. Peoples personal realities and
 subjective experiences are real for them, and we should listen and do our best
 to understand each other regardless of our ability to explain or relate to
 those experiences within our own personal realities.
+
+## Book Reference
+
+Butler, Judith. *Gender Trouble: Subjects of Sex/Gender/Desire.*
 
 ---
 
@@ -116,17 +124,10 @@ those experiences within our own personal realities.
 
 {::comment} REFERENCES {:/comment}
 
-[^judith-creds]: Butler is a [Fellow of the British Academy][british-academy]
-    and a professor in the Department of Comparative Literature and the Program
-    of Critical Theory at the University of California, Berkeley.
-
 [^the-second-sex]: De Beauvoir, Simone. The Second Sex. Random House, 2014.
 
 [^gender]: Kessler, Suzanne J., and Wendy McKenna. Gender: An
     Ethnomethodological Approach. University of Chicago Press, 1985.
-
-[^gender-trouble]: Butler, Judith. Gender Trouble: Subjects of
-    Sex/Gender/Desire.
 
 [^the-order-of-things]: Foucault, Michel. The Order of Things: An Archaeology
     of the Human Sciences. 1st American ed.-, Pantheon Books, 1970.
