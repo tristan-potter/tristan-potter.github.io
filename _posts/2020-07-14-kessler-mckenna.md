@@ -20,7 +20,7 @@ gender in their work "The Primacy of Gender Attribution."
 
 | When meeting someone: |
 | :-- |
-| 1. Assign the other persons gender |
+| 1. Assign the other person's gender |
 | 2. Make assumptions based off of our assignment |
 | 3. Retroactively justify the attribution of gender |
 {:.inline}
@@ -95,6 +95,10 @@ subjective and require interpretation from the perceiver.
 
 [genesis-post]: {% post_url 2020-07-11-genesis %} 
     "Genesis: Two make one"
+
+[flip-the-script-post]: {% post_url 2018-04-06-gender-as-a-performance %}
+    "Gender: Flip the script"
+
 
 [webster-hegemony]: https://www.merriam-webster.com/dictionary/hegemony
     "Merriam-Webster: Hegemony"
