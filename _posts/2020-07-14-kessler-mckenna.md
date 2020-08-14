@@ -1,15 +1,19 @@
 ---
-title: "Kessler and McKenna: the subjective categorization of gender"
-description: "An argument that we retroactively justify our assessment of
-people's gender instead of making the attribution based on a defined
-criterion."
-original-publication: 2018-04-06
+title: Kessler and McKenna - the subjective categorization of gender
+description: An argument that we retroactively justify our assessment of
+    people's gender instead of making the attribution based on a defined
+    criterion.
+excerpt: Kessler and McKenna observed the importance of determining another
+    person’s gender in their work "The Primacy of Gender Attribution."
 date: 2020-07-15
 tags: philosophy gender-theory gender-contemporary
 author: tristan
 episode: 2
 
 ---
+
+*This post was originally published on Apr 6th, 2018 as part of a larger work
+titled ["Gender: Flip the script"][flip-the-script-post]*
 
 Kessler and McKenna observed the importance of determining another person’s
 gender in their work "The Primacy of Gender Attribution."

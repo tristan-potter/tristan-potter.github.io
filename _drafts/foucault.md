@@ -1,12 +1,18 @@
 ---
 title: Michael Foucault – who decides the categories?
-original-publication: 2018-04-06
+description: When discussing the power of characterization and categorization,
+    Michael Foucault is the contemporary thought-leader.
+excerpt: When discussing the power of characterization and categorization,
+    Michael Foucault is the contemporary thought-leader.
 date: 2020-08-10
 tags: philosophy gender-theory gender-contemporary
 author: tristan
 episode: 4
 
 ---
+
+*This post was originally published on Apr 6th, 2018 as part of a larger work
+titled ["Gender: Flip the script"][flip-the-script-post]*
 
 When discussing the power of [characterization][defn-characterization] and
 [categorization][defn-categorization], Michael Foucault is the contemporary
@@ -123,6 +129,9 @@ Foucault, Michel. *The Order of Things: An Archaeology of the Human Sciences.*
 
 [butler-post]: {% post_url 2020-08-13-judith-butler %}
     "Judith Butler – Gender as a performance"
+
+[flip-the-script-post]: {% post_url 2018-04-06-gender-as-a-performance %}
+    "Gender: Flip the script"
 
 [^the-second-sex]: De Beauvoir, Simone. The Second Sex. Random House, 2014.
 

@@ -1,12 +1,20 @@
 ---
 title: Judith Butler – Gender as a performance
-original-publication: 2018-04-06
+description: Judith Butler builds off of
+    previous research to build a theory of gender as a flexible and changing
+    expression of the self, as opposed to a stable identity.
+excerpt: Judith Butler builds off of previous research to build a theory of
+    gender as a flexible and changing expression of the self, as opposed to a
+    stable identity.
 date: 2020-08-09
 tags: philosophy gender-theory gender-contemporary
 author: tristan
 episode: 3
 
 ---
+
+*This post was originally published on Apr 6th, 2018 as part of a larger work
+titled ["Gender: Flip the script"][flip-the-script-post]*
 
 [Judith Butler][judith-butler][^judith-creds] builds off of
 previous research to build a theory of gender as a flexible and changing
