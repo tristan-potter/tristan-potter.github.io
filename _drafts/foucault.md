@@ -1,9 +1,9 @@
 ---
 title: Michael Foucault – who decides the categories?
 description: When discussing the power of characterization and categorization,
-    Michael Foucault is the contemporary thought-leader.
+    Michael Foucault is the contemporary authority on the subject.
 excerpt: When discussing the power of characterization and categorization,
-    Michael Foucault is the contemporary thought-leader.
+    Michael Foucault is the contemporary authority on the subject.
 date: 2020-08-10
 tags: philosophy gender-theory gender-contemporary
 author: tristan
@@ -16,42 +16,44 @@ titled ["Gender: Flip the script"][flip-the-script-post]*
 
 When discussing the power of [characterization][defn-characterization] and
 [categorization][defn-categorization], Michael Foucault is a contemporary
-thought-leader.
+authority on the subject.
 
-Michael Foucault is a French philosopher primarily known for his ideas
-around categorization, and how power manifests itself in our interactions with
-each other. His work on categorization and its relationship to power
-structures is used in many fields including psychology and sociology.
+A French philosopher primarily known for his ideas around categorization and
+how power manifests itself in our interactions with each other. Foucault's work
+on categorization and its relationship to power structures is used in many
+fields including psychology and sociology.
 
 [defn-characterization]: https://www.merriam-webster.com/dictionary/characterization
 [defn-categorization]: https://www.merriam-webster.com/dictionary/categorization
 
-## Categorization as communication
+An exploration of gender intersects with Foucault’s work on categorization and
+power when viewing gender as a categorization of behaviour. As we've
+[seen][kessler-post] in [other works][butler-post], the categorization of
+gender also influences how we expect people to act and how we act around
+others.
 
-An exploration of gender intersects with Foucault’s work when view gender as a
-categorization of behaviour. As we've [seen in][kessler-post] [other
-works][butler-post], our categorization of gender also influences how we
-expect people to act and the ways that we act around others.
+## Categorization as communication
 
 Without the concept of categorization, no mechanism of classification or
 description would be present, which would prevent us from being able to
 describe anything, and without the ability to describe, we loose the ability
 to communicate, even possibly to think.[^multiplicity]
 
-[^multiplicity]: Foucault uses a thought experiment of a language or system
-    with too many or too little categories, hypothesizing that such a language
+[^multiplicity]: Foucault uses a thought experiment of a language
+    with too many or too little categories to make the point that such a
+    language would be useless, hypothesizing that such a language
     "does not distribute the multiplicity of existing things into any of the
     categories that make it possible for us to name, speak, and think."
     *(Foucault, The order of things: an archaeology of the human sciences, XIX)*
 
 To summarize:
 
-- Categorization is important as a method of describing differences and communicating concepts.
-- There is a relationship between power and the categorizations used in a society.
+- Categorization is important as a method of describing differences and
+  communicating concepts.
 - Gender is a system of categorization.
 
-Therefore, Western ideas of gender are related to the power structures in
-Western society.
+Therefore, Western ideas of gender are related to the language and
+categorizations used by Western society.
 
 ## The Western context
 
@@ -69,9 +71,9 @@ using naturalistic arguments.[^define-naturalism]
 [wiki-naturalism]: https://en.wikipedia.org/wiki/Naturalism_(philosophy)
 [bio-determinism-wiki]: https://en.wikipedia.org/wiki/Biological_determinism
 
-The factors and power dynamics that lead Western society to settle on two, and
-the ways naturalistic arguments were constructed to support this idea, are
-[easy to find in our historical literature][gender-history]. However,
+The factors and power dynamics that lead Western society to settle on only two
+genders, and the ways naturalistic arguments were constructed to support this
+idea, are [easy to find in our historical literature][gender-history]. However,
 contemporary researchers also have records of other societies that use more
 than two categories, providing a counter-example to any naturalistic
 arguments.[^counter-example]
@@ -84,10 +86,10 @@ arguments.[^counter-example]
 
 We know gender isn't a biological trait; the way gender categories are
 formed in different societies is complicated and unfortunately not well
-understood. Why is it that Western society continues to frame its populations
-in terms of two genders, despite [growing research][facebook-gender] on and
-[support][time-gender] for intersex, trans\*, and gender queer people who did
-not fit into these categories?
+understood. Despite this knowledge, Western society continues to frame its
+populations in terms of two genders, despite [growing
+research][facebook-gender] on and [support][time-gender] for intersex, trans\*,
+and gender queer people who do not fit into these categories.
 
 [facebook-gender]: https://www.telegraph.co.uk/technology/facebook/10930654/Facebooks-71-gender-options-come-to-UK-users.html
 [time-gender]: http://time.com/4703058/time-cover-story-beyond-he-or-she/
@@ -99,7 +101,7 @@ dynamics of society. The individuals in power manipulate the
 categorizations we use, whether they be church officials like [St Thomas
 Aquinas][thomas-post], educators and philosophers like
 [Aristotle][aristotle-post], or even the people around us who may relay our
-actions to an authority or someone whom we respect.
+actions to an authority figure or someone whom we respect.
 
 As we all enforce, attribute, and assume each others gender, we are all
 partially responsible for perpetuating and normalizing the Western ideas of
