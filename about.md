@@ -19,6 +19,14 @@ permalink: /lists
 - Playing piano
 - Reading
 
+## Quotes
+
+- "All the models are wrong, but some are useful." 
+  George Box (aphorism)
+- "Uncertainty is an uncomfortable position. But certainty is an absurd one."
+  Voltaire
+
+
 <div id="gr_custom_widget_1596997150">
   <div class="gr_custom_container_1596997150">
   <h2 class="gr_custom_header_1596997150">
