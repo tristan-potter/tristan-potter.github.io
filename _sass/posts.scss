@@ -15,7 +15,18 @@ blockquote {
   float: left;
   margin-right: 20px;
   margin-bottom: 20px;
+
+  thead {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+  }
+
+  th {
+    border-bottom: solid 1px black;
+  }
 }
+
+// cocktails 
 
 .invitation {
   max-width: 300px;
@@ -26,15 +37,15 @@ blockquote {
   margin-right: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
-}
 
-.menu thead {
-  font-size: 1.2em;
-  margin-bottom: 30px;
-}
+  thead {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+  }
 
-.menu th {
-  border-bottom: solid 1px black;
+  th {
+    border-bottom: solid 1px black;
+  }
 }
 
 img.block {
