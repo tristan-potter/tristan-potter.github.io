@@ -37,6 +37,11 @@ a {
   text-decoration: none;
 }
 
+p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .post-list {
   list-style-type: none;
   margin: 0;
@@ -140,4 +145,13 @@ a {
 
 .right {
   text-align: end;
+}
+
+.post-list {
+  padding-left: 0;
+}
+
+.post-item {
+  border-bottom: solid 1px #BDBDBD;
+  list-style: none;
 }
