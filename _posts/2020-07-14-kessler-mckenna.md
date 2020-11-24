@@ -15,8 +15,9 @@ episode: 2
 *This post was originally published on Apr 6th, 2018 as part of a larger work
 titled ["Gender: Flip the script"][flip-the-script-post]*
 
-Kessler and McKenna observed the importance of determining another person’s
-gender in their work "The Primacy of Gender Attribution."
+Kessler and McKenna in “The Primacy of Gender Attribution” discuss the
+significance of determining another person’s gender in encounters with others.
+
 
 | When meeting someone: |
 | :-- |
@@ -25,35 +26,49 @@ gender in their work "The Primacy of Gender Attribution."
 | 3. Retroactively justify the attribution of gender |
 {:.inline}
 
-They argue that we assign gender and make assumptions about people based off of
-our assignment before all other actions, and that we retroactively justify our
-attribution instead of making the attribution based on a defined
-criterion.[^defined-criterion]
+They argue that when we interact with someone, we assign gender before most
+other actions. We then make assumptions about how to treat that person based
+off of our gender assignment, and retroactively justify our attribution and our
+actions.[^defined-criterion]
 
-[^defined-criterion]: By defined criterion, I mean having some set guidelines
-    in mind to determine someones gender. For example, seeing a beard and
-    attributing manliness. Instead, Kessler and McKenna's work demonstrates 
-    that we instinctively attribute gender (that person is a man) and then
-    justify it later ("I attributed them as a man because of their beard").
+[^defined-criterion]:This is in contrast to having some set guidelines in mind
+    to determine someone's gender. For example, seeing a beard and attributing
+    manliness. Instead, Kessler and McKenna’s work demonstrates that we
+    instinctively attribute gender (that person is a man) and then justify it
+    later (“I attributed them as a man because of their beard”).
 
-    Think about what your thought process is when you see someone who's gender
-    is ambiguous.
+As an aside, there is some evidence[^free-will] that many (if not all) of our
+thoughts and actions are retroactively justified, but that is a topic for
+another time.
+
+[^free-will]: Studies done by [Benjamin Libet](wiki-ben) on consciousness and
+    its impact on actions, as well as [studies on split-brain
+    patients](cgp-video) have lead to some interesting findings.
+
+[cgp-video]: [https://www.youtube.com/watch?v=wfYbgdo8e-8]
+[wiki-ben]:https://en.wikipedia.org/wiki/Benjamin_Libet
 
 > Part of being a socialized member of a group is knowing the rules for giving
 > acceptable evidence for categorization. [^gender]
 >
 > *(Kessler and McKenna, Gender: an ethnomethodological approach, pp6)*
 
-Identification of another’s gender is key for our understanding of their roles:
-how to interact with them, what to expect from them, and how to interpret their
-actions.
+This is important because the attribution of gender is key to defining Western
+social encounters; it shapes how we interact with others, what to expect from
+them, and how to interpret their actions. Gender attribution is such a strong
+social cue that when an individual’s gender was perceived as ambiguous, Kessler
+and McKenna noted that other people often showed signs of unease as they tried
+to place the individual into a gender category.[^gender]
 
-These roles and the primacy of gender attribution are taught through a
-variety of social institutions, including religion, school, parents, etc. and
-inform our actions from an early age. Kessler and McKenna note that when an
-individual’s gender is perceived as ambiguous, other people often showed signs
-of unease as they tried to place the individual into a gender
-category.[^gender]
+This presents a challenge for people who don't identify with the gender
+attribution their parents made at birth. They may want to express cues to other
+people to treat them differently, or so they treat themselves differently
+(self-attribution). This may be particularly complex for people with identities
+that don't fit into the normative blue and pink dichotomy of Western society.
+
+These roles and the primacy of gender attribution are taught through a variety
+of social institutions, including religion, school, parents, etc. and inform
+our actions from an early age.
 
 > The primacy of gender attribution becomes obvious when we recognize that
 > assignment and identity can be seen as special cases of attribution, and,
@@ -63,19 +78,20 @@ category.[^gender]
 >
 > *(Kessler and McKenna, Gender: an ethnomethodological approach, pp17)*
 
-Notably, there is [some evidence][cgp-video][^1][^2][^3][^4][^5][^6] that many
-(if not all) of our thoughts/actions are retroactively justified.
-
-[cgp-video]: [https://www.youtube.com/watch?v=wfYbgdo8e-8]
 
 ## Objectivity is a lie 
 
-Many people subscribe to the idea that all things have an objective truth,
-including the human experience. This notion uses the gender binary as a tool to
-categorize people's experiences in an objective way. However, making these
-assumptions and attempting to construct other experiences within an objective
-view of reality is inherently flawed, since experiences are by definition
-subjective and require interpretation from the perceiver.
+The gender binary also colours our experiences in a way that seems objective.
+While many people subscribe to the idea that all things, including the human
+experience, have an objective truth, experiences are by definition subjective
+and require interpretation by the perceiver.
+
+The gender binary is often used as a tool to categorize people’s experiences in
+a way that seems objective. However, making gendered assumptions and attempting
+to construct other peoples experiences within an objective view of reality is
+inherently flawed, since experiences are subjective. Since our experiences
+require interpretation, and specifically our experiences of gender, gender
+attribution cannot be an objective reality.
 
 > "A defining feature of reality construction is to see our world as being the
 >  only possible one." [^gender]
