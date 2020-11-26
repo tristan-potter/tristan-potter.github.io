@@ -16,15 +16,16 @@ episode: 3
 *This post was originally published on Apr 6th, 2018 as part of a larger work
 titled ["Gender: Flip the script"][flip-the-script-post]*
 
-<!-- TODO this opening needs some work></!-->
 The idea that gender isn't tied to a persons biology is becoming more widely
-accepted in society. [Judith Butler][judith-butler][^judith-creds] builds off
-of previous research by feminist philosopher [Simone De
-Beauvoir][simone-de-beauvoir], theorizing that gender is a flexible and
-changing expression of the self, instead of a stable identity.
+accepted in society. This was first postulated by French philosopher [Simone De
+Beauvoir][simone-post] in her work ["The Second Sex"][simone-de-beauvoir].
+Building off of the work done by Beauvoir, [Judith
+Butler][judith-butler][^judith-creds] expands this into the theory that gender
+is a flexible and changing expression of the self, instead of a stable
+identity.
 
-[simone-de-beauvoir]: https://en.wikipedia.org/wiki/Simone_de_Beauvoir
-    "Wikipedia - Simone de Beauvoir"
+[simone-de-beauvoir]: https://archive.org/stream/1949SimoneDeBeauvoirTheSecondSex/1949_simone-de-beauvoir-the-second-sex#page/n1/mode/2up
+    "The Second Sex - English translation"
 
 [^judith-creds]: Butler is a [Fellow of the British Academy][british-academy]
     and a professor in the Department of Comparative Literature and the Program
@@ -182,6 +183,9 @@ Butler, Judith. *Gender Trouble: Subjects of Sex/Gender/Desire.*
 
 [kessler-post]: {% post_url 2020-07-14-kessler-mckenna %}
     "Kessler and McKenna: the subjective categorization of gender"
+
+[simone-post]: {% post_url 2020-07-14-beauvoir %}
+    "Simone De Beauvoir: a critique of historical Western philosophy"
 
 [flip-the-script-post]: {% post_url 2018-04-06-gender-as-a-performance %}
     "Gender: Flip the script"
