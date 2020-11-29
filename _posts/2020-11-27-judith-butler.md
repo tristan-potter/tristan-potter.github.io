@@ -189,7 +189,7 @@ Dreger][brigitte-website] for providing early feedback.*
 [genesis-post]: {% post_url 2020-07-11-genesis %}
     "Genesis: Two make one"
 
-[kessler-post]: {% post_url 2020-07-14-kessler-mckenna %}
+[kessler-post]: {% post_url 2020-11-26-kessler-mckenna %}
     "Kessler and McKenna: the subjective categorization of gender"
 
 [simone-post]: {% post_url 2020-07-14-beauvoir %}
