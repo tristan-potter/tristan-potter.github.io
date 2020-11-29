@@ -6,7 +6,7 @@ description: Judith Butler builds off of
 excerpt: Judith Butler builds off of previous research to build a theory of
     gender as a flexible and changing expression of the self, as opposed to a
     stable identity.
-date: 2020-08-09
+date: 2020-11-27
 tags: philosophy gender-theory gender-contemporary
 author: tristan
 episode: 3

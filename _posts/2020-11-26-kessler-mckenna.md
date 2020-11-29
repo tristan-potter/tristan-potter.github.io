@@ -5,7 +5,7 @@ description: An argument that we retroactively justify our assessment of
     criterion.
 excerpt: Kessler and McKenna observed the importance of determining another
     person’s gender in their work "The Primacy of Gender Attribution."
-date: 2020-07-15
+date: 2020-11-26
 tags: philosophy gender-theory gender-contemporary
 author: tristan
 episode: 2
