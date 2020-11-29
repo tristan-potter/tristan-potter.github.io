@@ -98,7 +98,21 @@ attribution cannot be an objective reality.
 >
 > *(Kessler and McKenna, Gender: an ethnomethodological approach, pp18)*
 
+
+---
+
+## More reading
+
+Kessler, Suzanne J., and Wendy McKenna. *Gender: An Ethnomethodological Approach*. University of Chicago Press, 1985.
+
 --- 
+
+*Thank you to Sam Yoon, [Eli Lee][eli-website], and [Brigitte
+Dreger][brigitte-website] for providing early feedback.*
+
+[eli-website]: https://www.elijahlee.ca/
+[brigitte-website]: https://brigitte-dreger.medium.com/
+
 
 [gender-history]: /projects/gender-history.html
     "Gender history project"
@@ -119,7 +133,7 @@ attribution cannot be an objective reality.
 [webster-hegemony]: https://www.merriam-webster.com/dictionary/hegemony
     "Merriam-Webster: Hegemony"
 
-[^gender]: Kessler, Suzanne J., and Wendy McKenna. Gender: An Ethnomethodological Approach. University of Chicago Press, 1985.
+[^gender]: Kessler, Suzanne J., and Wendy McKenna. *Gender: An Ethnomethodological Approach*. University of Chicago Press, 1985.
 
 [^1]: R. W. Sperry, ["Cerebral Organization and Behavior,"][cerebral-organization-and-behavior] Science, vol. 133, no. 3466, pp. 1749–1757, 1961.
 

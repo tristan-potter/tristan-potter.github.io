@@ -149,9 +149,9 @@ created by:
 ## In a nutshell
 
 Butler argues that gender is a changing expression of self, instead of being a
-stable part of someone identity. Gender is a performance that we use to
-communicate with the people around us (i.e. the construction of gender). We use our
-bodies (which are a politically and socially regulated medium) as the
+stable part of someone identity. It is a performance that we use to
+communicate with the people around us (i.e. the construction of gender), and we
+use our bodies (which are a politically and socially regulated medium) as the
 essential prop to convey our gender.
 
 If we are "bad at gender" we are punished and policed by ourselves and others
@@ -161,11 +161,19 @@ expressions of gender that appear biological (or "essential"). These [everyday
 forms of gender expression position us][kessler-post] (by
 ourselves and others) in the Western gender hierarchy.
 
-## Book Reference
+---
+
+## More reading
 
 Butler, Judith. *Gender Trouble: Subjects of Sex/Gender/Desire.*
 
 ---
+
+*Thank you to Sam Yoon, [Eli Lee][eli-website], and [Brigitte
+Dreger][brigitte-website] for providing early feedback.*
+
+[eli-website]: https://www.elijahlee.ca/
+[brigitte-website]: https://brigitte-dreger.medium.com/
 
 {::comment} LINKS {:/comment}
 
