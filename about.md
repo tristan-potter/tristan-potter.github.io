@@ -25,6 +25,10 @@ permalink: /lists
   George Box (aphorism)
 - "Uncertainty is an uncomfortable position. But certainty is an absurd one."
   Voltaire
+- ["work expands so as to fill the time available for its
+  completion."](https://www.economist.com/news/1955/11/19/parkinsons-law)
+  Cyril Northcote Parkinson
+
 
 
 <div id="gr_custom_widget_1596997150">
