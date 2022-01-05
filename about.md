@@ -28,7 +28,8 @@ permalink: /lists
 - ["work expands so as to fill the time available for its
   completion."](https://www.economist.com/news/1955/11/19/parkinsons-law)
   Cyril Northcote Parkinson
-
+- "Consciousness [...] happens within a context."
+  Ed Catmull, Creativity, Inc.
 
 
 <div id="gr_custom_widget_1596997150">
