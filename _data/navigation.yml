@@ -1,9 +1,9 @@
 - name: Home
   icon: "&#x1F44B"
   link: /
-- name: Blog
-  icon: "&#x1F4D8"
-  link: /blog
+# - name: Blog
+#   icon: "&#x1F4D8"
+#   link: /blog
 - name: Lists
   icon: "&#x1F466"
   link: /lists

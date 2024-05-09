@@ -2,7 +2,6 @@
 layout: default
 title: Lists
 permalink: /lists
-
 ---
 
 ## My interests
@@ -11,6 +10,7 @@ permalink: /lists
 - Corporate governance
 - Sociology
 - Philosophy
+- Fashion
 
 ## My hobbies
 
@@ -18,10 +18,13 @@ permalink: /lists
 - Biking
 - Playing piano
 - Reading
+- Running
+- Sewing
+- Crochet
 
 ## Quotes
 
-- "All the models are wrong, but some are useful." 
+- "All the models are wrong, but some are useful."
   George Box (aphorism)
 - "Uncertainty is an uncomfortable position. But certainty is an absurd one."
   Voltaire
@@ -30,7 +33,6 @@ permalink: /lists
   Cyril Northcote Parkinson
 - "Consciousness [...] happens within a context."
   Ed Catmull, Creativity, Inc.
-
 
 <div id="gr_custom_widget_1596997150">
   <div class="gr_custom_container_1596997150">
