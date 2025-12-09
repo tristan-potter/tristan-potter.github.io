@@ -3,8 +3,13 @@ layout: home
 title: A portfolio of thoughts
 ---
 
-tl;dr - I'm a **software developer** and **fashion student** based in
+tl;dr - I'm a **software developer** and **fashion enthusiast** based in
 **Toronto, Canada**.
+
+I’m an agile software developer and fashion enthusiast based in Toronto,
+Canada. I'm passionate about accessible and transparent systems, both
+technically and societally (if the users aren't happy, somethings wrong!). I
+love working across functional areas, and excel at building in ambiguity.
 
 Since 2014, I've been working in the software industry, primarily in financial
 services / commerce. I've had the privledge of working on some of the most
@@ -12,12 +17,14 @@ interesting and challenging projects in the industry!
 
 While the work in commerce software was rewarding, I'm always looking for new
 opportunities to learn and grow -- and at the end of 2022 I decided to focus on
-another area -- fashion. This ultimately culminated in my decision to go back
-to school in January 2024 to pursue a diploma in fashion at George Brown
-College.
+another area -- fashion. This ultimately culminated in a diploma in Fashion
+Management from George Brown College in 2025, and I'm now ready to return to
+working in the information technology field.
 
-While I'm in school, I do consulting for small businesses and startups. If you
-need help with your project, [let's talk](https://www.linkedin.com/in/twmpotter/)!
+If you need help with your project, let’s talk! Whether it’s tech, fashion, or
+something in between, I'm here to build great products on interdisciplinary
+teams. [Let's talk about what you need](https://www.linkedin.com/in/twmpotter/)!
+
 I specialize in:
 
 - Engineering project and team management
@@ -25,12 +32,9 @@ I specialize in:
 - Shopify site development and management
 - Custom email marketing and automation
 
-Whether it's tech, fashion, or something in between, I'm passionate about
-building great products, on interdisciplinary teams. Particularly
-relating to the ways that people interact and communicate.
-
 If you need someone to design or build transparent and accessible systems, or
-want to pick my brain on either industry, [reach out](https://www.linkedin.com/in/twmpotter/)!
+want to pick my brain on either industry, [reach
+out](https://www.linkedin.com/in/twmpotter/)!
 
 <!-- ## Software Developer -->
 
